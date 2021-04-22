@@ -1,18 +1,18 @@
-Welcome! I’m Augusto, a senior at the University of Connecticut pursuing a BSE in Computer Science and Engineering (Software Design & Development concentration).
+Hi! I’m Augusto, a senior at the University of Connecticut pursuing a BSE in Computer Science and Engineering (Software Design & Development concentration).
 
 I will be graduating in May, so I am looking for full-time positions. I am mainly interested in software engineering and game development, but have an open mind towards other potential career paths.
 
-This page is only a brief look at my work - If you want more information, feel free to contact me through the links on the sidebar! 
+This page is only a brief look at what I do and what I enjoy - If you want more information, feel free to contact me through the links on the sidebar! 
 
 # UConn:
 
-I am currently in my last semester at UConn. An key part of this semester is the [Senior Design Project,](https://seniordesign.engr.uconn.edu/) where students work over the course of a year to design and develop a product according to the needs of sponsors. For the latter portion, I have focused on the front-end of our web application design, using Angular and Bootstrap.
+I am currently in my last semester at UConn. An key part of this semester is the [Senior Design Project,](https://seniordesign.engr.uconn.edu/) where students work over the course of a year to design and develop a product according to the needs of sponsors. During the development phase, I have focused on the front-end of our web application design, working with Angular and Bootstrap.
 
-The [courses](https://catalog.uconn.edu/directory-of-courses/course/cse/) I have gotten the most from over my time at UConn are Data Structures & Object-Oriented Design, Algorithms and Complexity, and Systems Programming. Each of these courses were intensive looks at fundamental computer science topics, with accompanying assignments & projects that tested our application of these concepts.
+The [courses](https://catalog.uconn.edu/directory-of-courses/course/cse/) I have gotten the most from over my time at UConn are Data Structures & Object-Oriented Design, Algorithms and Complexity, and C++ Essentials. Each of these courses were intensive looks at fundamental computer science topics with accompanying assignments & projects that thoroughly tested our application of these concepts.
 
-During the 2019-20 academic year, I studied abroad at Waseda University in Tokyo. Although my program was cut short, I spent my time there fulfilling general education requirements, working on personal projects, and developing essential productivity skills.
+During the 2019-20 academic year, I studied abroad at Waseda University in Tokyo. Although my program was cut short in March, I spent my time there completing general education requirements, studying Japanese, working on personal projects, and rethinking how I approached my work in general.
 
-Some of the program-adjacent subjects I have found an interest in at UConn include open source, cybersecurity, and blockchain technologies. Although I have not delved information these subjects to the extent I would like, I hope to find a structured way to pursue them in the near future.
+Some of the program-adjacent subjects I have found an interest in at UConn include open source, cybersecurity, and blockchain technologies. Although I have not delved into these subjects as much as I would like, I hope to find a structured way to pursue them in the near future.
 
 # Games:
 
@@ -32,13 +32,13 @@ Dead Weight is a story-driven 2D platformer that was completed in a small group 
 
 # Other:
 
-My interest in software and game development stems from a passion for systems in general and a drive to create. Due to these broad motivations, I enjoy delving into many different fields, and I hope to apply this jack-of-all-trades mindset to my work without sacrificing mastery.
+My interest in software and game development stems from a passion for complex systems and a drive to create. I'm also drawn to the interdisciplinary nature of both fields. I enjoy delving into new topics and continually learning, and hope to apply this jack-of-all-trades mindset to my work and beyond without sacrificing the necessary mastery.
 
 I speak English, Spanish, and Norwegian natively (although I am a little rusty with the latter two), and I'm currently studying Japanese. 
 
-My SoundCloud can be found on the sidebar, and some less structured musical output can be found on my [clyp](https://clyp.it/user/h3jrsze5), although it is far from comprehensive.
+Music has been one of my more long-standing creative pursuits over the years. My SoundCloud can be found on the sidebar, and some less structured musical output can be found on my [clyp](https://clyp.it/user/h3jrsze5), although it is far from comprehensive.
 
-Thanks for reading! I've tried to keep it brief here, so shoot me a message if you have any questions or comments.
+Thanks for reading! I've tried to keep it brief here, so send me a message if you have any questions or comments.
 
 ### ---
 
