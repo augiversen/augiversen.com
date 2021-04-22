@@ -12,7 +12,7 @@ The [courses](https://catalog.uconn.edu/directory-of-courses/course/cse/) I have
 
 During the 2019-20 academic year, I studied abroad at Waseda University in Tokyo. Although my program was cut short in March, I spent my time there completing general education requirements, studying Japanese, working on personal projects, and rethinking how I approached my work in general.
 
-Some of the program-adjacent subjects I have found an interest in at UConn include open source, cybersecurity, and blockchain technologies. Although I have not delved into these subjects as much as I would like, I hope to find a structured way to pursue them in the near future.
+Some of the program-adjacent subjects I have found an interest in at UConn include open source, cybersecurity, and blockchain technologies. I haven't explored these subjects as much as I would like, and plan to engage with them more in the near future.
 
 # Games:
 
